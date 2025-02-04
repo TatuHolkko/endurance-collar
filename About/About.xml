@@ -1,0 +1,9 @@
+<ModMetaData>
+    <name>Mental Endurance Collar</name>
+    <description>An improved slave collar which will allow slaves to keep working with much smaller moods before having a mental break.</description>
+    <author>Blaxpear</author>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <packageId>blaxpear.endurancecollar</packageId>
+</ModMetaData>
