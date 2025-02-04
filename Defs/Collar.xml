@@ -1,5 +1,5 @@
 <Defs>
-    <ThingDef ParentName="ArmorMachineableBase">
+    <ThingDef ParentName="HatMakeableBase">
         <defName>Apparel_EnduranceCollar</defName>
         <label>mental endurance collar</label>
         <description>Slave collar that allows the wearer to endure a much lower mood without having a mental break.</description>
